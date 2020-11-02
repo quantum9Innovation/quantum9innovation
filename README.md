@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Reopening Safely: The Data Science Approach](https://medium.com/@q9i/reopening-safely-the-data-science-approach-289fd86ef63?source=rss-8b082837cd66------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
