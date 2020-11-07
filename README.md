@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm quantum9innovation</h1>
-<h3 align="center">Tournament chess analysis, infectious disease modelling, differential privacy.</h3>
+<h3 align="center">Election statistics, infectious disease modelling, tournament chess analysis. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quantum9innovation&label=Profile%20views&color=0e75b6&style=flat" alt="quantum9innovation" /> </p>
 
