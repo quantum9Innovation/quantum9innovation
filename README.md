@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm quantum9innovation</h1>
 <h3 align="center">Election statistics, infectious disease modelling, tournament chess analysis. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quantum9innovation&label=Profile%20views&color=0e75b6&style=flat" alt="quantum9innovation" /> </p>
-
 - 🔭 I’m currently working on [Dama](https://github.com/quantum9innovation/Dama)
 
 - 👨‍💻 All of my projects are available at [https://github.com/quantum9Innovation?tab=repositories](https://github.com/quantum9Innovation?tab=repositories)
