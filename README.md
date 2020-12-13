@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Reopening Safely: A Tale of Four Cities](https://medium.com/@q9i/reopening-safely-a-tale-of-four-cities-f130d932f0ee?source=rss-8b082837cd66------2)
 - [Reopening Safely: The Data Science Approach](https://medium.com/@q9i/reopening-safely-the-data-science-approach-289fd86ef63?source=rss-8b082837cd66------2)
 <!-- BLOG-POST-LIST:END -->
 
