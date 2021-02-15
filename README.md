@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm quantum9innovation</h1>
 <h3 align="center">Election statistics, infectious disease modelling, tournament chess analysis. </h3>
 
-- 🔭 I’m currently working on publishing release v3.0 of [epispot/epispot](https://www.github.com/epispot/epispot/)
-     Preview the nightly build and get installation instructions [here](https://www.github.com/epispot/epispot/tree/nightly)
+- 🔭 I’m currently working on publishing release v3.0 of [epispot/epispot](https://www.github.com/epispot/epispot/).
+     Preview the nightly build and get installation instructions [here](https://www.github.com/epispot/epispot/tree/nightly).
 
 - 👨‍💻 All of my projects are available at [https://github.com/quantum9Innovation?tab=repositories](https://github.com/quantum9Innovation?tab=repositories)
 
