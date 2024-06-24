@@ -12,7 +12,7 @@ In order to remain sane when not writing Haskell, I am continuously configuring 
 - "Free" (libre) as in "free speech" :speech_balloon:
 - "Free" (decentralized) as in "open source" :globe_with_meridians:
 
-When I'm not trying to understand category theory, the basis of modern mathematics, or mathematical applications in computer science, I'm likely exploring mathematical economics and related fields, especially social choice theory and optimal taxation theory. I'm also quite interested in linguitics and computational linguistics in particular.
+When I'm not trying to understand category theory, the basis of modern mathematics, or mathematical applications in computer science, I'm likely exploring mathematical economics and related fields, especially social choice theory and optimal taxation theory. I'm also quite interested in linguistics and computational linguistics in particular.
 
 - 🔭 I’m currently working on **rewriting repositories in Haskell**
 - 📚 I’m currently learning **category theory**
