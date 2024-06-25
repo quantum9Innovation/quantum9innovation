@@ -1,5 +1,7 @@
 ## Hi there :octocat:
 
+[**Skip to projects :arrow_down:**](#projects)
+
 [I'm Ananth](https://quantum9innovation.github.io). I used to write code in TypeScript (and, before that, JavaScript—oh, [the horror](https://www.reddit.com/r/ProgrammerHumor/comments/13rtual/the_novice_javascript_developer_seeks_absolute/)!), Python, and R. I suspect this will give me an ample supply of security vulnerabilities to fix. I later discovered [Haskell](https://www.haskell.org/) and realized that it is _the one true language_ ([this is a mathematically proven fact](https://theory.stanford.edu/~blynn/haskell/why.html)). Programming (or theorizing, in this case) in Haskell has the added benefit of giving you [whitepapers for free](https://www.youtube.com/shorts/LGZKXZQeEBg).
 Learning Haskell has taught me to make sense of philosophical tautologies regarding the current state of the universe, like:
 
@@ -51,3 +53,5 @@ _Below_: licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-n
 ![A weekly review of my GitHub stats](./profile-3d-contrib/profile-gitblock.svg)
 
 [^1]: Part of the terms and conditions that every Arch user agrees to mandates that they advertise their use of Arch Linux as part of their online identity.
+
+## Projects
