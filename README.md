@@ -17,7 +17,7 @@ In order to remain sane when not writing Haskell, I am continuously configuring 
 When I'm not trying to understand category theory, the basis of modern mathematics, or mathematical applications in computer science, I'm likely exploring mathematical economics and related fields, especially social choice theory and optimal taxation theory. I'm also quite interested in linguistics and computational linguistics in particular.
 
 - 🔭 I’m currently working on [QuasarOS](https://github.com/quantum9innovation/quasaros), a (*)nix-based distro with some custom experimental hacks
-- 📚 I’m currently learning **category theory**
+- 📚 I’m currently learning [category theory](https://en.wikipedia.org/wiki/Category_theory)
 - 🌱 Feel free to contribute to any of [my projects](https://github.com/quantum9innovation?tab=repositories)
 - ❓ I’m looking for help redesigning [Proto](https://github.com/quantum9innovation/proto/tree/main), a language-learning application
 - 💬 Ask me to explain [what a monad is](https://emorehouse.wescreates.wesleyan.edu/silliness/burrito_monads.pdf), [why most voting systems are wrong](https://arxiv.org/pdf/2004.02350), or [how elliptic curves are truly magical](https://www.jstor.org/stable/10.4169/math.mag.85.3.163)
