@@ -8,7 +8,15 @@ Learning Haskell has taught me to make sense of philosophical tautologies regard
 > "A monad is a monoid in the category of endofunctors, what's the problem?"\
 > —Saunders MacLane
 
-In order to remain sane when not writing Haskell, I am continuously configuring and optimizing my [**NixOS**](https://nixos.org/) system. This allows me to continue theorizing about [monadic software deployment](https://jade.fyi/blog/the-postmodern-build-system/) as I complete what should be trivial system tasks. I also believe that software should work well out-of-the-box, be updated regularly to support bleeding-edge features, and still allow for additional customization. Promoting [**user control over software**](https://www.gnu.org/philosophy/free-software-even-more-important.html) and enabling [**free software distribution**](https://www.gnu.org/philosophy/free-sw.en.html) are key to achieving these goals. I support software that meets the following three pillars of freedom:
+In order to remain sane when not writing Haskell, I am continuously configuring and optimizing my [**NixOS**](https://nixos.org/) system. This allows me to continue theorizing about [monadic software deployment](https://jade.fyi/blog/the-postmodern-build-system/) as I complete what should be trivial system tasks.
+
+![A dependency graph of my NixOS system](./frame.png)
+
+You see that? Yes, that thing above. That's my operating system. [*All of it*](https://github.com/quantum9innovation/quasaros).
+It's supposed to be directed and acyclic, but that's really hard to tell given the enormous amount of feature bloat cluttering up the graph.
+As you can imagine, maintaining this--and aggressively Nixifying existing software--consumes the vast majority of my time at the moment ([see below](#projects) to confirm this).
+
+I also believe that software should work well out-of-the-box, be updated regularly to support bleeding-edge features, and still allow for additional customization. Promoting [**user control over software**](https://www.gnu.org/philosophy/free-software-even-more-important.html) and enabling [**free software distribution**](https://www.gnu.org/philosophy/free-sw.en.html) are key to achieving these goals. I support software that meets the following three pillars of freedom:
 
 - "Free" (gratis) as in "free beer" :beer:
 - "Free" (libre) as in "free speech" :speech_balloon:
@@ -47,6 +55,6 @@ _Below_: licensed under [CC BY-ND 3.0](https://creativecommons.org/licenses/by-n
 
 ![Combate la oscura era digital. Apoya a la FSF.](./apoyar.png)
 
-![A weekly review of my GitHub stats](./profile-3d-contrib/profile-gitblock.svg)
-
 ## Projects
+
+![A weekly review of my GitHub stats](./profile-3d-contrib/profile-gitblock.svg)
