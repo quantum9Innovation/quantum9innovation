@@ -12,7 +12,7 @@ In order to remain sane when not writing Haskell, I am continuously configuring 
 
 ![A dependency graph of my NixOS system](./frame.png)
 
-You see that? Yes, that thing above. That's my operating system. [*All of it*](https://github.com/quantum9innovation/quasaros).
+You see that? Yes, that thing above. That's my operating system. [*All*](https://github.com/quantum9innovation/quasaros) [*of*](https://github.com/quantum9innovation/netsanet) [*it*](https://github.com/quantum9innovation/nixos).
 It's supposed to be directed and acyclic, but that's really hard to tell given the enormous amount of feature bloat cluttering up the graph.
 As you can imagine, maintaining this--and aggressively Nixifying existing software--consumes the vast majority of my time at the moment ([see below](#projects) to confirm this).
 
