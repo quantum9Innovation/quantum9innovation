@@ -14,7 +14,7 @@ In order to remain sane when not writing Haskell, I am continuously configuring 
 
 You see that? Yes, that thing above. That's my operating system. [*All*](https://github.com/quantum9innovation/quasaros) [*of*](https://github.com/quantum9innovation/netsanet) [*it*](https://github.com/quantum9innovation/nixos).
 It's supposed to be directed and acyclic, but that's really hard to tell given the enormous amount of feature bloat cluttering up the graph.
-As you can imagine, maintaining this--and aggressively Nixifying existing software--consumes the vast majority of my time at the moment ([see below](#projects) to confirm this).
+As you can imagine, maintaining this—and aggressively Nixifying existing software—consumes the vast majority of my time at the moment ([see below](#projects) to confirm this).
 
 I also believe that software should work well out-of-the-box, be updated regularly to support bleeding-edge features, and still allow for additional customization. Promoting [**user control over software**](https://www.gnu.org/philosophy/free-software-even-more-important.html) and enabling [**free software distribution**](https://www.gnu.org/philosophy/free-sw.en.html) are key to achieving these goals. I support software that meets the following three pillars of freedom:
 
