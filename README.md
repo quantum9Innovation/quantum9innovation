@@ -25,7 +25,7 @@ I also believe that software should work well out-of-the-box, be updated regular
 When I'm not trying to understand category theory, the basis of modern mathematics, or mathematical applications in computer science, I'm likely exploring mathematical economics and related fields, especially social choice theory and optimal taxation theory. I'm also quite interested in linguistics and computational linguistics in particular.
 
 - 🔭 I’m currently working on [QuasarOS](https://github.com/quantum9innovation/quasaros), a (*)nix-based distro with some custom experimental hacks
-- 📚 I’m currently learning [Lagrangian mechanics](https://www.feynmanlectures.caltech.edu/II_19.html)
+- 📚 I’m currently learning [Hamiltonian mechanics](https://bpb-us-e1.wpmucdn.com/sites.harvard.edu/dist/0/550/files/2023/11/cmchap15.pdf)
 - 🌱 Feel free to contribute to any of [my projects](https://github.com/quantum9innovation?tab=repositories)
 - ❓ I’m looking for help redesigning [Proto](https://github.com/quantum9innovation/proto/tree/main), a language-learning application
 - 💬 Ask me to explain [what a monad is](https://emorehouse.wescreates.wesleyan.edu/silliness/burrito_monads.pdf), [why most voting systems are wrong](https://arxiv.org/pdf/2004.02350), or [how elliptic curves are truly magical](https://www.jstor.org/stable/10.4169/math.mag.85.3.163)
