@@ -6,7 +6,7 @@ I maintain affiliations with [functor.systems](https://functor.systems/) and wit
 
 ---
 
-[I'm Ananth](https://quantum9innovation.github.io). I used to write code in TypeScript (and, before that, JavaScript—oh, [the horror](https://www.reddit.com/r/ProgrammerHumor/comments/13rtual/the_novice_javascript_developer_seeks_absolute/)!), Python, and R. I suspect this will give me an ample supply of security vulnerabilities to fix. I later discovered [Haskell](https://www.haskell.org/) and realized that it is _the one true language_ ([this is a mathematically proven fact](https://theory.stanford.edu/~blynn/haskell/why.html)). Programming in Haskell (or theorizing, in this case) has the added benefit of giving you [whitepapers for free](https://www.youtube.com/shorts/LGZKXZQeEBg).
+[I'm Ananth](https://monadi.cc). I used to write code in TypeScript (and, before that, JavaScript—oh, [the horror](https://www.reddit.com/r/ProgrammerHumor/comments/13rtual/the_novice_javascript_developer_seeks_absolute/)!), Python, and R. I suspect this will give me an ample supply of security vulnerabilities to fix. I later discovered [Haskell](https://www.haskell.org/) and realized that it is _the one true language_ ([this is a mathematically proven fact](https://theory.stanford.edu/~blynn/haskell/why.html)). Programming in Haskell (or theorizing, in this case) has the added benefit of giving you [whitepapers for free](https://www.youtube.com/shorts/LGZKXZQeEBg).
 Learning Haskell has taught me to make sense of philosophical tautologies regarding the current state of the universe, like:
 
 > "A monad is a monoid in the category of endofunctors, what's the problem?"\
